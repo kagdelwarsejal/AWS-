@@ -145,6 +145,11 @@ font-size: 30px;
 	border: 0;
     padding:20px;
     margin-bottom:30px;
+ line-height:40px;
+    font-weight:900;
+    font-size:30px;
+     padding:20px 20px 10px 20px;
+     text-transform:uppercase;
 }
 /*=======================================
     CONTACT STYLES
